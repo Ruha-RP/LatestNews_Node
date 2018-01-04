@@ -1,4 +1,17 @@
-# LatestNews_Node
+# Novafy
+
+Group Project 1 at UCF Coding Bootcamp, January 2018.
+
+## Team 'Sijui' Members: 
+
+Jean Paul (Team Lead)
+Ruha Peera
+Osman Mendieta-Castro
+Derek Bocskey
+
+## Project Description: 
+
+The 12 things you need to know!
 
 Get the latest 12 news and stories everyone is talking about from The New York Times, FOX News, ESPN and Twitter.
 
